@@ -1,0 +1,34 @@
+[
+  {
+    "First Name": "R",
+    "Last Name": "V",
+    "Email": "r.v@sourcefuse.com",
+    "Phone": "+91987654321",
+    "Role": "Full Stack Engineer",
+    "Address": "Delhi,India"
+  },
+  {
+    "First Name": "P",
+    "Last Name": "B",
+    "Email": "P.B@sourcefuse.com",
+    "Phone": "+910987654321",
+    "Role": "Full Stack Engineer",
+    "Address": "Noida, Uttar Pradesh"
+  },
+  {
+    "First Name": "S",
+    "Last Name": "T",
+    "Email": "S.t@sourcefuse.com",
+    "Phone": "+910987654321",
+    "Role": "Software Developer",
+    "Address": "Gurugram, Haryana"
+  },
+  {
+    "First Name": "A",
+    "Last Name": "D",
+    "Email": "A.D@Sourcefuse.com",
+    "Phone": "+91987654321",
+    "Role": "Front-end Engineer",
+    "Address": "Noida, Uttar Pradesh"
+  }
+]
